@@ -8,3 +8,7 @@ Create classical logic gates using quantum gate with Qiskit.
 ## quantum.py
  - not, and, or, xor logic gates quantumly 
  
+<hr>
+
+## ACCESS_TOKEN 
+IBMQ access token for more information <a src="https://quantum-computing.ibm.com/docs/manage/account/ibmq">IBM Q</a>
