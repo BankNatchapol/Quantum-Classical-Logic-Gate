@@ -11,4 +11,4 @@ Create classical logic gates using quantum gate with Qiskit.
 <hr>
 
 ## ACCESS_TOKEN 
-IBMQ access token for more information <a src="https://quantum-computing.ibm.com/docs/manage/account/ibmq">IBMQ</a>
+IBMQ access token for more information <a href="https://quantum-computing.ibm.com/docs/manage/account/ibmq">IBMQ</a>
