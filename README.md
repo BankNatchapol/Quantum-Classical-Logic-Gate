@@ -2,9 +2,9 @@
 Create classical logic gates using quantum gate with Qiskit.
 <hr>
 
-# classical.py
+## classical.py
  - not, and, or, xor logic gates classically
 
-# quantum.py
+## quantum.py
  - not, and, or, xor logic gates quantumly 
  
