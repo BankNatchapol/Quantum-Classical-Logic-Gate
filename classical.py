@@ -19,4 +19,6 @@ def or_gate(bit1, bit2):
 
 def xor_gate(bit1, bit2):
     assert bit1 in (0, 1) and bit2 in (0, 1), "Only 0 or 1"
-    return (bit1 + bit2) % 2
+    if bit1 != bit2:
+        return 1
+    return 0
