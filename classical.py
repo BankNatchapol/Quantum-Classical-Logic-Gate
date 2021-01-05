@@ -12,7 +12,9 @@ def and_gate(bit1, bit2):
 
 def or_gate(bit1, bit2):
     assert bit1 in (0, 1) and bit2 in (0, 1), "Only 0 or 1"
-    return int((bit1 + bit2) > 0)
+    if bit1 or bit2:
+        return 1
+    return 0
 
 
 def xor_gate(bit1, bit2):
